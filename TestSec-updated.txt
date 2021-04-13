@@ -1,0 +1,177 @@
+from library import *
+from pyspark.sql import DataFrame
+from pyspark.sql.functions import current_date
+from weeklyaggregate import WeeklyAggregate
+import commonfunctions
+import read_param
+from pytz import timezone
+
+<script>
+</Script>
+
+logger.info("Renaming file start...")
+            file_name = self.file_name
+            logger.info("Renaming file start...")
+            dateTimeObj = datetime.now(timezone("America/New_York"))
+            month_prep = str(dateTimeObj.month)
+            if len(month_prep) == 1:
+                month = "0" + month_prep
+            else:
+                month = month_prep
+            day_prep = str(dateTimeObj.day)
+            if len(day_prep) == 1:
+                day = "0" + day_prep
+            else:
+                day = day_prep
+            year = str(dateTimeObj.year)
+            hour_prep = str(dateTimeObj.hour)
+            if len(hour_prep) == 1:
+                hour = '0' + hour_prep
+            else:
+                hour = hour_prep
+            minute_prep = str(dateTimeObj.minute)
+            if len(minute_prep) == 1:
+                minute = '0' + minute_prep
+            else:
+                minute = minute_prep
+            second_prep = str(dateTimeObj.second)
+            if len(second_prep) == 1:
+                second = '0' + second_prep
+            else:
+                second = second_prep
+				
+				
+logger.info("Renaming file start...")
+            file_name = self.file_name
+            logger.info("Renaming file start...")
+            dateTimeObj = datetime.now(timezone("America/New_York"))
+            month_prep = str(dateTimeObj.month)
+            if len(month_prep) == 1:
+                month = "0" + month_prep
+            else:
+                month = month_prep
+            day_prep = str(dateTimeObj.day)
+            if len(day_prep) == 1:
+                day = "0" + day_prep
+            else:
+                day = day_prep
+            year = str(dateTimeObj.year)
+            hour_prep = str(dateTimeObj.hour)
+            if len(hour_prep) == 1:
+                hour = '0' + hour_prep
+            else:
+                hour = hour_prep
+            minute_prep = str(dateTimeObj.minute)
+            if len(minute_prep) == 1:
+                minute = '0' + minute_prep
+            else:
+                minute = minute_prep
+            second_prep = str(dateTimeObj.second)
+            if len(second_prep) == 1:
+                second = '0' + second_prep
+            else:
+                second = second_prep
+				
+				
+				
+				logger.info("Renaming file start...")
+				            file_name = self.file_name
+				            logger.info("Renaming file start...")
+				            dateTimeObj = datetime.now(timezone("America/New_York"))
+				            month_prep = str(dateTimeObj.month)
+				            if len(month_prep) == 1:
+				                month = "0" + month_prep
+				            else:
+				                month = month_prep
+				            day_prep = str(dateTimeObj.day)
+				            if len(day_prep) == 1:
+				                day = "0" + day_prep
+				            else:
+				                day = day_prep
+				            year = str(dateTimeObj.year)
+				            hour_prep = str(dateTimeObj.hour)
+				            if len(hour_prep) == 1:
+				                hour = '0' + hour_prep
+				            else:
+				                hour = hour_prep
+				            minute_prep = str(dateTimeObj.minute)
+				            if len(minute_prep) == 1:
+				                minute = '0' + minute_prep
+				            else:
+				                minute = minute_prep
+				            second_prep = str(dateTimeObj.second)
+				            if len(second_prep) == 1:
+				                second = '0' + second_prep
+				            else:
+				                second = second_prep
+								
+								
+								
+								
+								logger.info("Renaming file start...")
+								            file_name = self.file_name
+								            logger.info("Renaming file start...")
+								            dateTimeObj = datetime.now(timezone("America/New_York"))
+								            month_prep = str(dateTimeObj.month)
+								            if len(month_prep) == 1:
+								                month = "0" + month_prep
+								            else:
+								                month = month_prep
+								            day_prep = str(dateTimeObj.day)
+								            if len(day_prep) == 1:
+								                day = "0" + day_prep
+								            else:
+								                day = day_prep
+								            year = str(dateTimeObj.year)
+								            hour_prep = str(dateTimeObj.hour)
+								            if len(hour_prep) == 1:
+								                hour = '0' + hour_prep
+								            else:
+								                hour = hour_prep
+								            minute_prep = str(dateTimeObj.minute)
+								            if len(minute_prep) == 1:
+								                minute = '0' + minute_prep
+								            else:
+								                minute = minute_prep
+								            second_prep = str(dateTimeObj.second)
+								            if len(second_prep) == 1:
+								                second = '0' + second_prep
+								            else:
+								                second = second_prep
+												
+												
+												
+												
+logger.info("Renaming file start...")
+            file_name = self.file_name
+            logger.info("Renaming file start...")
+            dateTimeObj = datetime.now(timezone("America/New_York"))
+            month_prep = str(dateTimeObj.month)
+            if len(month_prep) == 1:
+                month = "0" + month_prep
+            else:
+                month = month_prep
+            day_prep = str(dateTimeObj.day)
+            if len(day_prep) == 1:
+                day = "0" + day_prep
+            else:
+                day = day_prep
+            year = str(dateTimeObj.year)
+            hour_prep = str(dateTimeObj.hour)
+            if len(hour_prep) == 1:
+                hour = '0' + hour_prep
+            else:
+                hour = hour_prep
+            minute_prep = str(dateTimeObj.minute)
+            if len(minute_prep) == 1:
+                minute = '0' + minute_prep
+            else:
+                minute = minute_prep
+            second_prep = str(dateTimeObj.second)
+            if len(second_prep) == 1:
+                second = '0' + second_prep
+            else:
+                second = second_prep
+				
+				
+				
